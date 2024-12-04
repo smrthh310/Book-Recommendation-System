@@ -117,14 +117,6 @@ The web application is built using Flask and provides the following routes:
 * **HTML Templates**: Located in the templates/ directory, these files define the structure of the web pages.
 * **CSS and JavaScript**: Located in the static/ directory, these files handle the styling and interactivity of the web pages.
 
-## Images
-Here are some screeshots of the web application.
-
-<img src="/images/home.jpeg">
-<img src="/images/methods.jpeg">
-<img src="/images/trends.jpeg">
-<img src="/images/1.png">
-<img src="/images/2.png">
 
 ## Contributing
 We welcome contributions to the project. If you would like to contribute, please follow these steps:
